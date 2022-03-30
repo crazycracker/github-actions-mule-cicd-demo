@@ -99,7 +99,7 @@ jobs:
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
          -Denv=Sandbox \
-         -DskipTests
+         -DskipMunitTests
          
 #         -Ddecryption.key="$DECRYPTION_KEY" \
          
