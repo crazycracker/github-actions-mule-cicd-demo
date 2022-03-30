@@ -100,6 +100,7 @@ jobs:
          -Danypoint.password="$PASSWORD" \
          -Denv=Sandbox \
          -DskipTests
+         
 #         -Ddecryption.key="$DECRYPTION_KEY" \
          
 #     - name: Notify Slack
